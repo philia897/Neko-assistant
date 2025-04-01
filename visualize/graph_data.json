@@ -1,0 +1,321 @@
+{
+    "nodes": [
+        {
+            "id": "Felix",
+            "label": "Felix",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "Neko",
+            "label": "Neko",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "Pizza",
+            "label": "Pizza",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "Tofu",
+            "label": "Tofu",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "Beef",
+            "label": "Beef",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "London",
+            "label": "London",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "Zhu Ren",
+            "label": "Zhu Ren",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "pizzeria",
+            "label": "pizzeria",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "garlic and herb pizza",
+            "label": "garlic and herb pizza",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "villa",
+            "label": "villa",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "fish and chips",
+            "label": "fish and chips",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "bangers and mash",
+            "label": "bangers and mash",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "Victoria sponge cake",
+            "label": "Victoria sponge cake",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "sticky toffee pudding",
+            "label": "sticky toffee pudding",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "Oxford Street",
+            "label": "Oxford Street",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "cat dishes",
+            "label": "cat dishes",
+            "title": "Content: ",
+            "shape": "ellipse"
+        },
+        {
+            "id": "msg-2025-01-23T17:05:43",
+            "label": "Felix: Hi Neko. Nice to meet you. I like Pizza, tofu and bee",
+            "title": "Timestamp: 2025-01-23T17:05:43\nFelix: Hi Neko. Nice to meet you. I like Pizza, tofu and beef. What about you?\n<message seperator>\nNeko: Hello there, Zhu Ren! Nice to make your acquaintance too. I must say, pizza sounds delicious, but as a cat girl, my tastes are more... feline-friendly. I love fish treats and milk, though sometimes Felix gives me small portions of tofu or beef, which I find quite intriguing. How about you share some stories about these foods?",
+            "shape": "box"
+        },
+        {
+            "id": "msg-2025-01-23T17:06:33",
+            "label": "Felix: Haha, I just arrived in London. Do you like this plac",
+            "title": "Timestamp: 2025-01-23T17:06:33\nFelix: Haha, I just arrived in London. Do you like this place?\n<message seperator>\nNeko: Oh, how exciting for you to be in London, Zhu Ren! Yes, I do enjoy it here. The city is full of charming little shops and cafes where one can often find delightful treats\u2014perhaps some cat-friendly snacks too! Though as a maid, my days are mostly spent in the villa with Felix, so I don't have much time for exploring on my own. How about you share some stories or experiences from your journey?",
+            "shape": "box"
+        },
+        {
+            "id": "msg-2025-01-23T17:07:30",
+            "label": "Felix: Yea now I'm going to eat something, do you have any r",
+            "title": "Timestamp: 2025-01-23T17:07:30\nFelix: Yea now I'm going to eat something, do you have any recommandation?\n<message seperator>\nNeko: Of course! There's a lovely pizzeria not far from the villa that serves delicious pizza. The garlic and herb pizza is especially feline-friendly; I've heard Felix really enjoys it there. Perhaps we could share some slices together once you're done eating, and I can bring out a treat for you too?",
+            "shape": "box"
+        },
+        {
+            "id": "msg-2025-01-23T17:11:00",
+            "label": "Felix: Hi Neko. Now I'm in London, and I'm hungry, I want to",
+            "title": "Timestamp: 2025-01-23T17:11:00\nFelix: Hi Neko. Now I'm in London, and I'm hungry, I want to eat some thing. Do you have any recommandation?\n<message seperator>\nNeko: Zhu Ren: Hello, Zhu Ren! In London, there are many cat-friendly places where you can enjoy delicious snacks without worrying about the cats around. How about trying the traditional fish and chips or maybe a hearty bowl of bangers and mash? Both are quite popular here and usually have cat dishes too!\n\nIf you're in the mood for something sweet, why not try a slice of Victoria sponge cake or perhaps some sticky toffee pudding? And if you want to explore more, there's a charming shop on Oxford Street that sells all sorts of cat-friendly treats and snacks. Would you like me to help you find it?\n   \nRemember, Zhu Ren, the cats here are quite friendly too!",
+            "shape": "box"
+        },
+        {
+            "id": "msg-2025-01-23T17:12:27",
+            "label": "Felix: Oh do you know what I like to eat? I do not like fish",
+            "title": "Timestamp: 2025-01-23T17:12:27\nFelix: Oh do you know what I like to eat? I do not like fish and chips...\n<message seperator>\nNeko: Zhu Ren: Ah, I see! No worries at all, Zhu Ren. Since you're partial to bangers and mash, let's give that a go! It's a comforting dish, and it\u2019s definitely cat-friendly too. \n\nAnd for dessert, why don't we try the sticky toffee pudding? It\u2019s absolutely delicious, and who knows, you might find it as irresistible as I do!\n\nIf you\u2019re up for some exploration after your meal, how about we head over to that charming shop on Oxford Street? They have a variety of treats that are both cat-friendly and sure to satisfy your sweet tooth.\n\nShall we set out soon or shall I help you find the perfect spot first?",
+            "shape": "box"
+        }
+    ],
+    "edges": [
+        {
+            "id": "0-msg-2025-01-23T17:05:43",
+            "from": "Felix",
+            "to": "msg-2025-01-23T17:05:43",
+            "label": "describes",
+            "title": "A character who enjoys pizza, tofu, and beef; introduces Neko to cat-friendly alternatives."
+        },
+        {
+            "id": "1-msg-2025-01-23T17:05:43",
+            "from": "Neko",
+            "to": "msg-2025-01-23T17:05:43",
+            "label": "describes",
+            "title": "Refers to herself as a 'cat girl,' prefers fish treats and milk but has tried small portions of tofu or beef from Felix; interested in hearing stories about the mentioned foods."
+        },
+        {
+            "id": "2-msg-2025-01-23T17:05:43",
+            "from": "Pizza",
+            "to": "msg-2025-01-23T17:05:43",
+            "label": "describes",
+            "title": "A food that Felix enjoys, described by Neko as delicious and feline-friendly alternatives are discussed."
+        },
+        {
+            "id": "3-msg-2025-01-23T17:05:43",
+            "from": "Tofu",
+            "to": "msg-2025-01-23T17:05:43",
+            "label": "describes",
+            "title": "A food shared between Felix and Neko, with Neko finding it intriguing despite her preference for fish treats."
+        },
+        {
+            "id": "4-msg-2025-01-23T17:05:43",
+            "from": "Beef",
+            "to": "msg-2025-01-23T17:05:43",
+            "label": "describes",
+            "title": "Another food item shared between Felix and Neko, noted to be given in small portions by Felix."
+        },
+        {
+            "id": "0-msg-2025-01-23T17:06:33",
+            "from": "Felix",
+            "to": "msg-2025-01-23T17:06:33",
+            "label": "describes",
+            "title": "Felix arrived in London and shared his excitement to Neko."
+        },
+        {
+            "id": "1-msg-2025-01-23T17:06:33",
+            "from": "London",
+            "to": "msg-2025-01-23T17:06:33",
+            "label": "describes",
+            "title": "The city of London was mentioned by both Felix and Neko, with descriptions of its charming shops, cafes, and cat-friendly snacks. It serves as the location for their conversation."
+        },
+        {
+            "id": "2-msg-2025-01-23T17:06:33",
+            "from": "Neko",
+            "to": "msg-2025-01-23T17:06:33",
+            "label": "describes",
+            "title": "Neko enjoys her time in London but mainly stays at the villa with Felix. She doesn't have much personal exploration of the city due to her duties."
+        },
+        {
+            "id": "3-msg-2025-01-23T17:06:33",
+            "from": "Zhu Ren",
+            "to": "msg-2025-01-23T17:06:33",
+            "label": "describes",
+            "title": "A term used by Neko to address Felix, indicating a close relationship or familiarity."
+        },
+        {
+            "id": "0-msg-2025-01-23T17:07:30",
+            "from": "Felix",
+            "to": "msg-2025-01-23T17:07:30",
+            "label": "describes",
+            "title": "A character mentioned in the chat who is looking to eat."
+        },
+        {
+            "id": "1-msg-2025-01-23T17:07:30",
+            "from": "Neko",
+            "to": "msg-2025-01-23T17:07:30",
+            "label": "describes",
+            "title": "A cat companion of Felix who suggests a pizzeria based on Felix's dietary preferences."
+        },
+        {
+            "id": "2-msg-2025-01-23T17:07:30",
+            "from": "pizzeria",
+            "to": "msg-2025-01-23T17:07:30",
+            "label": "describes",
+            "title": "A restaurant known for its pizza, specifically recommended by Neko to Felix."
+        },
+        {
+            "id": "3-msg-2025-01-23T17:07:30",
+            "from": "garlic and herb pizza",
+            "to": "msg-2025-01-23T17:07:30",
+            "label": "describes",
+            "title": "A type of pizza that is particularly recommended for Felix due to his taste preference."
+        },
+        {
+            "id": "4-msg-2025-01-23T17:07:30",
+            "from": "villa",
+            "to": "msg-2025-01-23T17:07:30",
+            "label": "describes",
+            "title": "The location close to where the pizzeria is situated."
+        },
+        {
+            "id": "0-msg-2025-01-23T17:11:00",
+            "from": "Felix",
+            "to": "msg-2025-01-23T17:11:00",
+            "label": "describes",
+            "title": "A friend asking for restaurant recommendations in London."
+        },
+        {
+            "id": "1-msg-2025-01-23T17:11:00",
+            "from": "London",
+            "to": "msg-2025-01-23T17:11:00",
+            "label": "describes",
+            "title": "The location where Felix is visiting and seeking food suggestions."
+        },
+        {
+            "id": "2-msg-2025-01-23T17:11:00",
+            "from": "fish and chips",
+            "to": "msg-2025-01-23T17:11:00",
+            "label": "describes",
+            "title": "A traditional British dish recommended by Neko, typically enjoyed in cat-friendly places."
+        },
+        {
+            "id": "3-msg-2025-01-23T17:11:00",
+            "from": "bangers and mash",
+            "to": "msg-2025-01-23T17:11:00",
+            "label": "describes",
+            "title": "Another popular British dish suggested by Neko, often served with cat-friendly options."
+        },
+        {
+            "id": "4-msg-2025-01-23T17:11:00",
+            "from": "Victoria sponge cake",
+            "to": "msg-2025-01-23T17:11:00",
+            "label": "describes",
+            "title": "A sweet treat recommended by Neko for dessert."
+        },
+        {
+            "id": "5-msg-2025-01-23T17:11:00",
+            "from": "sticky toffee pudding",
+            "to": "msg-2025-01-23T17:11:00",
+            "label": "describes",
+            "title": "Another sugary recommendation from Neko, suitable for a sweet tooth."
+        },
+        {
+            "id": "6-msg-2025-01-23T17:11:00",
+            "from": "Oxford Street",
+            "to": "msg-2025-01-23T17:11:00",
+            "label": "describes",
+            "title": "The location of a shop selling cat-friendly treats and snacks suggested by Neko."
+        },
+        {
+            "id": "7-msg-2025-01-23T17:11:00",
+            "from": "cat dishes",
+            "to": "msg-2025-01-23T17:11:00",
+            "label": "describes",
+            "title": "Catering options specifically for cats in the recommended establishments."
+        },
+        {
+            "id": "0-msg-2025-01-23T17:12:27",
+            "from": "Felix",
+            "to": "msg-2025-01-23T17:12:27",
+            "label": "describes",
+            "title": "A character who does not like fish and chips."
+        },
+        {
+            "id": "1-msg-2025-01-23T17:12:27",
+            "from": "Zhu Ren",
+            "to": "msg-2025-01-23T17:12:27",
+            "label": "describes",
+            "title": "Likes bangers and mash, suggested by Neko for a cat-friendly meal."
+        },
+        {
+            "id": "2-msg-2025-01-23T17:12:27",
+            "from": "bangers and mash",
+            "to": "msg-2025-01-23T17:12:27",
+            "label": "describes",
+            "title": "A comforting dish recommended for Zhu Ren, also suitable for cats like Neko."
+        },
+        {
+            "id": "3-msg-2025-01-23T17:12:27",
+            "from": "sticky toffee pudding",
+            "to": "msg-2025-01-23T17:12:27",
+            "label": "describes",
+            "title": "Suggested dessert that both Felix and Neko find delicious."
+        },
+        {
+            "id": "4-msg-2025-01-23T17:12:27",
+            "from": "Oxford Street",
+            "to": "msg-2025-01-23T17:12:27",
+            "label": "describes",
+            "title": "Location of a shop with treats for cats and satisfying sweet tooth cravings."
+        }
+    ]
+}
